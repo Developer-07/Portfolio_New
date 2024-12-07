@@ -1264,11 +1264,11 @@ body {
 }
 
 .about--options>a:nth-child(1) {
-    background-image: url("https://placehold.co/600x400")
+    background-image: url("../img/head.png")
 }
 
 .about--options>a:nth-child(2) {
-    background-image: url("../img/methacore.png")
+    background-image: url("../img/artim-academy.png")
 }
 
 .about--options>a:nth-child(3) {
